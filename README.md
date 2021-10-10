@@ -1,4 +1,4 @@
-### Hello Data World 📢
+### Hi there 📢
 
 I am Tina, a self-taught Data Analyst with 4+ years professional experience in financial and retail industry who is passionate about numbers and data.
 
