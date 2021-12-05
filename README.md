@@ -8,5 +8,6 @@ I am Tina, a self-taught Data Analyst with 4+ years professional experience in f
 - 💡 Skills: SQL, Python, R, Tableau, Excel, Google Analytics
 - 👋 How to reach me: [LinkedIn](https://www.linkedin.com/in/tina-huang-70114b196/)
 - 💚 Fun fact: Tennis lover, I suck at playing tennis but I never give up.
+- 🚀 Quote: "Ｗhen you want something, all the universe conspires in helping you to achieve it." - Paulo Coelho
 
 
