@@ -6,7 +6,7 @@ I am Tina, a self-taught Data Analyst with 4+ years professional experience in f
 - 📊 I’m currently working on data analytics in retail industry. 
 - 📚 I’m currently learning [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python) & [Data Analyst with SQL Server](https://app.datacamp.com/learn/career-tracks/data-analyst-with-sql-server) in DataCamp.
 - 💡 Skills: SQL, Python, R, Tableau, Excel, Google Analytics
-- 👋 How to reach me: [LinkedIn]
+- 👋 How to reach me: 
 - 💚 Fun fact: Tennis lover, I suck at playing tennis but I never give up.
 
 
